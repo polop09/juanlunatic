@@ -16,5 +16,6 @@
     "discord-giveaways": "^4.4.3",
     "discord.js": "^12.5.3",
     "ms": "^2.1.2"
+    "node": "^18.3.0" 
   }
 }
